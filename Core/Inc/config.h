@@ -5,7 +5,7 @@
 
 // speed limits for invividual modes in kph
 #define SPEEDLIMIT_ECO 6
-#define SPEEDLIMIT_NORMAL 20
+#define SPEEDLIMIT_NORMAL 50
 #define SPEEDLIMIT_SPORT 50
 
 // motor current limits for invividual modes in mA
